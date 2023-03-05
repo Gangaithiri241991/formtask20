@@ -1,0 +1,54 @@
+#c{
+    border-radius: 6px;
+    width:400px;
+}
+#posi{
+    border-radius: 6px;
+    width: 400px;
+    
+}
+#posi1{
+    border-radius: 6px;
+    width: 400px;
+
+}
+
+#posi3{
+    border-radius: 6px;
+    width: 400px;
+
+}
+#posi4{
+    border-radius: 6px;
+    width: 400px;
+
+}
+#posi5{
+    border-radius: 6px;
+    width: 400px;
+
+}
+#posi6{
+    border-radius: 6px;
+    width: 400px;
+
+}
+button{
+    border-radius: 6px;
+    background-color: blue;
+    width: 300px;
+    color:white;
+
+}
+#po{
+    background-color: violet;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+table,tr,td{
+    
+    border-spacing: 26px;
+    background-color: yellowgreen;
+    border: solid black 4px;
+    
+}
